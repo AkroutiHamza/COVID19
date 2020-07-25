@@ -66,3 +66,5 @@ if (_.isAwesome(thisRepo)) {
 }
 
 `````
+
+[![GitHub stars - COVID-19 Vinit Shahdeo](https://img.shields.io/github/stars/AkroutiHamza/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge)](https://github.com/AkroutiHamza/COVID19/)
